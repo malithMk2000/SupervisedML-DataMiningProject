@@ -1,0 +1,1 @@
+This repository contains the implementation of a supervised machine learning pipeline as part of the EC 9560: Data Mining course project. The project focuses on training and evaluating machine learning models using the Water Potability Dataset to classify whether water is potable (safe for drinking) based on various chemical attributes.
